@@ -1,0 +1,11 @@
+.question{
+    cursor: pointer;
+}
+.answer{
+    display: none;
+    /* visibility: hidden; */
+    cursor: pointer;
+}
+.answer.active {
+      display: block;
+    }
